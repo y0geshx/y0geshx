@@ -1,15 +1,23 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, Nice to see you.</h1>
-<h3 align="center">I'm a Yogesh </h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=08CE90&size=24&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yogesh.;I'm+a+student." alt="typing intro">
+</p>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since this time.
+
+- 🌱 I’m currently learning **FrontEnd development**
+
+- ☘️ **Open-Source Contributor**
+
+- 💬 Ask me about **science and technology**
+
 
 I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
 🎡  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app) | 🦄  [Projects](https://yogeshx.vercel.app)
 </p>
 
-### 👀 Page Views
+### Page Views 👀 
 ![views](https://komarev.com/ghpvc/?username=y0geshx&base=4000&style=fflat-square&color=54856b)
 
 ### Tech Stack
@@ -23,6 +31,7 @@ I love to chase ideas and spend a lot of time using great product applications, 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=316192)
 
 ### Web Services
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -41,10 +50,24 @@ I love to chase ideas and spend a lot of time using great product applications, 
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<p>
+<a href="#">
+<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=y0geshx&theme=dracula&hide_border=true&background=000000EE"/>
+</a>
+</p>
+
+<p>
+<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-yogesh.vercel.app/api?username=y0geshx&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-yogesh.vercel.app/api/top-langs?username=y0geshx&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ## 🧤 How to reach me
-
-<a href="https://t.me"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 
 <a href="https://github.com/y0geshx#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
