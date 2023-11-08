@@ -57,8 +57,8 @@ I love to chase ideas and spend a lot of time using great product applications, 
 </p>
 
 <p>
-<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-yogesh.vercel.app/api?username=y0geshx&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-yogesh.vercel.app/api/top-langs?username=y0geshx&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-nine-xi-23.vercel.app/api?username=y0geshx&show_icons=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-nine-xi-23.vercel.app/api/top-langs?username=y0geshx&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 ## 🧤 How to reach me
