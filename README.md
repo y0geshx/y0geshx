@@ -5,7 +5,7 @@
 </p>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since this time.
 
-- 🌱 I’m currently learning **FrontEnd development**
+- 🌱 I’m currently learning **web technologies**
 
 - ☘️ **Open-Source Contributor**
 
@@ -14,7 +14,7 @@
 
 I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
-🎡  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app) | 🦄  [Projects](https://yogeshx.vercel.app)
+🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app) | 🦄  [Projects](https://yogeshx.vercel.app)
 </p>
 
 ### Page Views 👀 
@@ -49,6 +49,7 @@ I love to chase ideas and spend a lot of time using great product applications, 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/obsidian-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <p>
 <a href="#">
