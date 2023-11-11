@@ -14,11 +14,11 @@
 
 I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
-🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app) | 🦄  [Projects](https://yogeshx.vercel.app)
+🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects)
 </p>
 
 ### Page Views 👀 
-![views](https://komarev.com/ghpvc/?username=y0geshx&base=4000&style=fflat-square&color=54856b)
+![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
