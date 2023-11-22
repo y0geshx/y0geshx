@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Nice to see you.</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=08CE90&size=24&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yogesh.;I'm+a+student." alt="typing intro">
 </p>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since this time.
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since that time.
 
 - 🌱 I’m currently learning **web technologies**
 
@@ -63,10 +63,10 @@ I love to chase ideas and spend a lot of time using great product applications, 
 <br/>
 
 ## 🧤 How to reach me
+<a rel="me" href="https://infosec.exchange/@Yogesh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 
 <a href="https://github.com/y0geshx#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
