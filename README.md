@@ -14,7 +14,7 @@
 
 I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
-🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects)
+🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects) | 🦣 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a>
 </p>
 
 ### Page Views 👀 
@@ -66,7 +66,6 @@ I love to chase ideas and spend a lot of time using great product applications, 
 <a rel="me" href="https://infosec.exchange/@Yogesh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <a href="https://github.com/y0geshx#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
