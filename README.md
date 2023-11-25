@@ -14,7 +14,7 @@
 
 I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
-🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects) | 🦣 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a>
+🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects) | 🐘 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a>
 </p>
 
 ### Page Views 👀 
