@@ -17,6 +17,9 @@
 ### Page Views 👀 
 ![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
 
+## Vibing to 🎶 
+[![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://github.com/y0geshx)
+
 ## My Tech Stack ⚡ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
@@ -38,9 +41,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
-
-## Vibing to 🎶 
-[![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://github.com/y0geshx)
 
 ## Stats 📊
 <p>
