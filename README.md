@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Nice to see you.</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=08CE90&size=24&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yogesh.;I'm+a+student." alt="typing intro">
 </p>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since that time.
+<p align="center">I am ✨ fascinated ✨ by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since that time. I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
 - 🌱 I’m currently learning **web technologies**
 
@@ -11,16 +11,13 @@
 
 - 💬 Ask me about **science and technology**
 
-
-I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
-
 🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects) | 🐘 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a>
 </p>
 
 ### Page Views 👀 
 ![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
 
-### Tech Stack
+## My Tech Stack ⚡ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -32,37 +29,28 @@ I love to chase ideas and spend a lot of time using great product applications, 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=316192)
-
-### Web Services
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-### Working with
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/obsidian-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white)
 
-<p>
-<a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=y0geshx&theme=dracula&hide_border=true&background=000000EE"/>
-</a>
-</p>
+## Vibing to 🎶 
+![Spotify](spotify-yogesh.vercel.app/api/spotify?background_color=000000EE)
 
+## Stats 📊
 <p>
 <a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-nine-xi-23.vercel.app/api?username=y0geshx&show_icons=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
 <a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-nine-xi-23.vercel.app/api/top-langs?username=y0geshx&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
+<p>
+<a href="#"><img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=y0geshx&theme=dracula&hide_border=true&background=000000EE"/></a>
+</p>
 
-## 🧤 How to reach me
+## How to reach me 🧤
 <a rel="me" href="https://infosec.exchange/@Yogesh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
