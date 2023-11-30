@@ -40,7 +40,7 @@
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
 ## Vibing to 🎶 
-![Spotify](spotify-yogesh.vercel.app/api/spotify?background_color=000000EE)
+![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE)
 
 ## Stats 📊
 <p>
