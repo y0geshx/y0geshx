@@ -18,7 +18,7 @@
 ![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
 
 ## Vibing to 🎶 
-[![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://github.com/y0geshx)
+[![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://open.spotify.com/user/m3cp5b66nyxy9uuhf6cw5linh)
 
 ## My Tech Stack ⚡ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -57,4 +57,4 @@
 
 <a href="https://github.com/y0geshx#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-  </a>
+</a>
