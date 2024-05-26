@@ -1,17 +1,17 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, Nice to see you.</h1>
+<h1 align="center">Hi there 👋 Nice to see you!</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=08CE90&size=24&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Yogesh.;I'm+a+student." alt="typing intro">
 </p>
-<p align="center">I am ✨ fascinated ✨ by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying computer science from an early age, and my enthusiasm has perpetually developed since that time. I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
+<p align="center">I'm deeply ✨ fascinated ✨ by the transformative power of computer technology 🌐. It has brought changes to our lives that were once unimaginable. Witnessing the rapid expansion of computer science inspired me to dive into this field from an early age, and my enthusiasm has only grown stronger over time. I thrive on chasing innovative ideas and spend countless hours exploring outstanding product applications. By learning from their successes, I fuel my creativity and drive for excellence.
 
-- 🌱 I’m currently learning **web technologies**
+- 🌱 Currently Exploring: **Web Technologies**
 
-- ☘️ **Open-Source Contributor**
+- ☘️ **Open-Source Contributor**: Passionate about contributing to the community
 
-- 💬 Ask me about **science and technology**
+- 💬 Let's Chat About: **Science and Technology**
 
-🚀  [Website](https://yogeshx.vercel.app)  |  🌈  [Posts](https://yogeshx.vercel.app/blog) | 🦄  [Projects](https://yogeshx.vercel.app/projects) | 🐘 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a>
+<p align="center"> 🚀  <a rel="Website" href="https://yogeshwar.me">Website</a>  |  📜  <a rel="Posts" href="https://yogeshwar.me/blog">Posts</a> | 🦄  <a rel="Projects" href="https://yogeshwar.me/projects">Project</a> | 🐘 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a> </p>
 </p>
 
 ### Page Views 👀 
