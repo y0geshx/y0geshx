@@ -50,6 +50,8 @@
 <a href="#"><img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=y0geshx&theme=dracula&hide_border=true&background=000000EE"/></a>
 </p>
 
+[![License](https://img.shields.io/github/license/y0geshx/y0geshx?logo=gnu)](/LICENSE)
+
 ## How to reach me 🧤
 <a rel="me" href="https://infosec.exchange/@Yogesh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
