@@ -14,8 +14,10 @@
 <p align="center"> 🚀  <a rel="Website" href="https://yogeshwar.me">Website</a>  |  📜  <a rel="Posts" href="https://yogeshwar.me/blog">Posts</a> | 🦄  <a rel="Projects" href="https://yogeshwar.me/projects">Project</a> | 🐘 <a rel="me" href="https://infosec.exchange/@Yogesh">Mastodon</a> </p>
 </p>
 
-### Page Views 👀 
+### Stats and Page Views 👀 
 ![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
+![GitHub followers](https://img.shields.io/github/followers/y0geshx)
+[![wakatime](https://wakatime.com/badge/user/7479671f-4da3-4a25-9979-d0f1674710aa.svg)](https://wakatime.com/@7479671f-4da3-4a25-9979-d0f1674710aa)
 
 ## Vibing to 🎶 
 [![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://open.spotify.com/user/m3cp5b66nyxy9uuhf6cw5linh)
@@ -42,7 +44,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
 
-## Stats 📊
+## Github Stats 📊
 <p>
 <a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-nine-xi-23.vercel.app/api?username=y0geshx&show_icons=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
 <a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-nine-xi-23.vercel.app/api/top-langs?username=y0geshx&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
