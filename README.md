@@ -18,6 +18,7 @@
 ![views](https://komarev.com/ghpvc/?username=y0geshx&style=fflat-square&color=54856b)
 ![GitHub followers](https://img.shields.io/github/followers/y0geshx)
 [![wakatime](https://wakatime.com/badge/user/7479671f-4da3-4a25-9979-d0f1674710aa.svg)](https://wakatime.com/@7479671f-4da3-4a25-9979-d0f1674710aa)
+[![License](https://img.shields.io/github/license/y0geshx/y0geshx?logo=gnu)](/LICENSE)
 
 ## Vibing to 🎶 
 [![Spotify](https://spotify-yogesh.vercel.app/api/spotify?background_color=000000EE&border_color=ffffff)](https://open.spotify.com/user/m3cp5b66nyxy9uuhf6cw5linh)
@@ -52,7 +53,6 @@
 <a href="#"><img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=y0geshx&theme=dracula&hide_border=true&background=000000EE"/></a>
 </p>
 
-[![License](https://img.shields.io/github/license/y0geshx/y0geshx?logo=gnu)](/LICENSE)
 
 ## How to reach me 🧤
 <a rel="me" href="https://infosec.exchange/@Yogesh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
